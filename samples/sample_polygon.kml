@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Greenwich Park Sample</name>
+    <Placemark>
+      <name>Sample Agricultural Field</name>
+      <description>Greenwich 1 km² test polygon</description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.0,51.5,0 0.014,51.5,0 0.014,51.509,0 0.0,51.509,0 0.0,51.5,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

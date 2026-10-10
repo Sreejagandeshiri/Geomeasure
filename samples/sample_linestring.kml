@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Survey Route</name>
+    <Placemark>
+      <name>Survey Flight Line</name>
+      <description>Sample survey flight line</description>
+      <LineString>
+        <coordinates>0.0,51.5,0 0.014,51.5,0 0.021,51.505,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
